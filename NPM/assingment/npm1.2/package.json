@@ -1,0 +1,11 @@
+{
+  "name": "npm1.2",
+  "version": "0.1.2",
+  "description": "Abhishek Ranjan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
