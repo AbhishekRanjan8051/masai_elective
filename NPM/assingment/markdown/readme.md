@@ -19,3 +19,8 @@
 [GitHub](https://github.com/AbhishekRanjan8051)
 
 ![Masai School](https://www.medianews4u.com/wp-content/uploads/2021/02/Masai-School-Launches-Its-First-Digital-Ad-Campaign-%E2%80%9CCareer-Hai-Compromise-Nahi%E2%80%9D.jpg)
+
+
+```js
+var a  = "abc";
+```
