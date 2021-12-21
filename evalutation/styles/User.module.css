@@ -1,0 +1,11 @@
+.heading{
+	color: rgb(218, 221, 15);
+    
+    text-align:center;
+}
+.user{
+    color: rgb(255, 0, 200);
+    text-align:center;
+    text-decoration: none;
+    font-size:2rem
+}
